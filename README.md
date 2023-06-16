@@ -5,5 +5,5 @@ Data Analytics Module 1 HW
 Contains original files supplied for the assignment.
 
 ## TB Solutions
-Contains my solutions for the homework.
+Contains my solutions for the homework. Excel edits and a Word document.
 
