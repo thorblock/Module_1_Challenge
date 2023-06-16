@@ -1,4 +1,4 @@
-# Module_1_Challenge
+# Module 1 Challenge
 Data Analytics Module 1 HW
 
 ## Starter Code 
